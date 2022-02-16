@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  
+  html {
+    --color-1: #0f0f38;
+    --color-2: #fe0005;
+    --color-3: #ffffff;
+  }
+  
